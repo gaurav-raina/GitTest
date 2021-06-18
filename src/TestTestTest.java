@@ -1,7 +1,7 @@
 public class TestTestTest {
 public static void main(String args[])
 {
-    System.out.println("Kiran is not stupid");
+    System.out.println("Kiran is very stupid");
 
 }
 }
